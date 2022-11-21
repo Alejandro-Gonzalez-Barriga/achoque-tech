@@ -5,17 +5,21 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Edit <code>src/App.js</code> achoqueHighTech
+          Achoque-Tech Solutions  
+        </p>
+        <p>
+          Comming soon...
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.alexgportafolio.dev/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Check out my portafolio
         </a>
       </header>
+  
     </div>
   );
 }
