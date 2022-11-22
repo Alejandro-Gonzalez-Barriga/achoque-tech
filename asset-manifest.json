@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/achoque-tech/static/css/main.1dd31be1.css",
-    "main.js": "/achoque-tech/static/js/main.15f4d15e.js",
-    "static/js/787.a6d981ff.chunk.js": "/achoque-tech/static/js/787.a6d981ff.chunk.js",
-    "index.html": "/achoque-tech/index.html",
-    "main.1dd31be1.css.map": "/achoque-tech/static/css/main.1dd31be1.css.map",
-    "main.15f4d15e.js.map": "/achoque-tech/static/js/main.15f4d15e.js.map",
-    "787.a6d981ff.chunk.js.map": "/achoque-tech/static/js/787.a6d981ff.chunk.js.map"
+    "main.css": "/static/css/main.1dd31be1.css",
+    "main.js": "/static/js/main.ddda8b3c.js",
+    "static/js/787.a6d981ff.chunk.js": "/static/js/787.a6d981ff.chunk.js",
+    "index.html": "/index.html",
+    "main.1dd31be1.css.map": "/static/css/main.1dd31be1.css.map",
+    "main.ddda8b3c.js.map": "/static/js/main.ddda8b3c.js.map",
+    "787.a6d981ff.chunk.js.map": "/static/js/787.a6d981ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1dd31be1.css",
-    "static/js/main.15f4d15e.js"
+    "static/js/main.ddda8b3c.js"
   ]
 }
