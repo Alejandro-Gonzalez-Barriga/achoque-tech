@@ -8,7 +8,7 @@ function App() {
           Achoque-Tech Solutions  
         </p>
         <p>
-          Comming soon...
+          Comming soon..
         </p>
         <a
           className="App-link"
